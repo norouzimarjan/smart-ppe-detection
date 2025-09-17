@@ -1,4 +1,4 @@
-# PPE Detection with YOLO and Pose Estimation
+![photo_5931523443105319286_w](https://github.com/user-attachments/assets/5c0389c5-20c9-4bec-b1af-8798cd3a27ec)# PPE Detection with YOLO and Pose Estimation
 
 This project focused on detecting **Personal Protective Equipment (PPE)** such as helmets, masks, and safety vests.  
 The system combines **YOLO-based object detection** with **pose estimation** to validate PPE usage on humans in images and videos.
@@ -63,11 +63,8 @@ ppe_classes_all = [
 ## YOLO Training Results
 YOLO automatically logs metrics during training. Below are the sample plots:
 
-### Training Loss
-![Loss Curve](docs/loss_curve.png)
 
-### Precision, Recall, and mAP
-![Metrics Curve](docs/metrics_curve.png)
+![Uploading results.png…]()
 
 ### Final Evaluation (Test Set)
 ```text
@@ -88,10 +85,13 @@ YOLO automatically logs metrics during training. Below are the sample plots:
 ---
 
 ## Sample Outputs
+- video
 
-Image Example
+![document_5931523442649078353-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/7ea37b75-951e-45c5-a1a6-e5de0607cfb4)
 
-Video Example
+- image
+
+![photo_5931523443105319286_w](https://github.com/user-attachments/assets/b4280cf6-843d-4721-be29-b9099f851ff0)
 
 
 ---
