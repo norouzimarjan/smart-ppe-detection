@@ -81,7 +81,7 @@ ppe_classes_all = [
 ## Sample Outputs
 - video
 
-![Demo](assets/document_5931523442649078353-ezgif.com-video-to-gif-converter (1).gif)
+![Demo](./assets/document_5931523442649078353-ezgif.com-video-to-gif-converter%20(1).gif)
 
 - image
 
