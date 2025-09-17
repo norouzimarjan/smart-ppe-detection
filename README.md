@@ -60,15 +60,6 @@ ppe_classes_all = [
 
 ---
 
-## YOLO Training Results
-YOLO automatically logs metrics during training. Below are the sample plots:
-
-### Training Loss
-![Loss Curve](docs/loss_curve.png)
-
-### Precision, Recall, and mAP
-![Metrics Curve](docs/metrics_curve.png)
-
 ### Final Evaluation (Test Set)
 ```text
   Class               Images   Instances    Box(P       R        mAP50     mAP50-95):
@@ -88,10 +79,13 @@ YOLO automatically logs metrics during training. Below are the sample plots:
 ---
 
 ## Sample Outputs
+- video
 
-Image Example
+![Demo](assets/document_5931523442649078353-ezgif.com-video-to-gif-converter (1).gif)
 
-Video Example
+- image
+
+![photo_5931523443105319286_w](https://github.com/user-attachments/assets/b4280cf6-843d-4721-be29-b9099f851ff0)
 
 
 ---
